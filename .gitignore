@@ -1,0 +1,8 @@
+_3rdParty/**
+cmake-build-debug/**
+CMakeFiles/**
+*.a
+*.dylib
+*.so
+*.zip
+CmakeCache.txt
